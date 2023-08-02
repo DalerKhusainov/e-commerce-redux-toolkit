@@ -1,12 +1,12 @@
-export const slide = [
+export const slides = [
   {
     image: "../images/slide/slide1.png",
   },
   { image: "../images/slide/slide2.png" },
   { image: "../images/slide/slide3.png" },
   { image: "../images/slide/slide4.png" },
-]
-export const order = [
+];
+export const orders = [
   {
     id: 1,
     title: "Your Order",
@@ -27,8 +27,8 @@ export const order = [
     title: "And Deliver",
     desc: "There are many variations of passages of Lorem Ipsum available",
   },
-]
-export const category = [
+];
+export const categories = [
   {
     id: 1,
     title: "face & skin care",
@@ -42,7 +42,7 @@ export const category = [
   {
     id: 3,
     title: "beauty care",
-    cover: "../images/category/ca3.png",
+    cover: "../images/category/ca2.png",
   },
   {
     id: 4,
@@ -89,8 +89,8 @@ export const category = [
     title: "Household",
     cover: "../images/category/ca12.jpg",
   },
-]
-export const product = [
+];
+export const products = [
   {
     id: 1,
     name: "ACM Sebionex Hydra",
@@ -307,4 +307,4 @@ export const product = [
     cover: "../images/product/product24.png",
     desc: "The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.",
   },
-]
+];
